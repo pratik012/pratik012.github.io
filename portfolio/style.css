@@ -1,0 +1,127 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    padding: 1rem;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav li {
+    margin-right: 1rem;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+section h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+section p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+section img {
+    max-width: 100%;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 2rem;
+}
+
+.grid-item {
+    background-color: #f5f5f5;
+    padding: 1rem;
+}
+
+.grid-item h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.flex-item {
+    flex-basis: calc(33.33% - 1rem);
+    background-color: #f5f5f5;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.flex-item h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+form {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 1rem;
+}
+
+label {
+    font-size: 1.2rem;
+}
+
+input,
+textarea {
+    padding: 0.5rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+}
+
+button {
+    padding: 0.5rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #1d1d1d;
+    color: #ffffff;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #333333;
+}
+
+footer {
+    background-color: #f5f5f5;
+    color: #333333;
+    padding: 1rem;
+    text-align: center;
+}

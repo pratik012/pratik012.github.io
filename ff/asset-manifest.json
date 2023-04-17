@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d543d68.css",
+    "main.js": "/static/js/main.aea87af8.js",
+    "static/media/gown.jpg": "/static/media/gown.5571104b39744e8d6a5f.jpg",
+    "static/media/watch.jpg": "/static/media/watch.8aa7aa1558796d8b4d35.jpg",
+    "static/media/hero-bcg.jpeg": "/static/media/hero-bcg.20b17210b73aa38fef4c.jpeg",
+    "static/media/img5.jpg": "/static/media/img5.002220f4675897f501a0.jpg",
+    "static/media/suit.jpg": "/static/media/suit.45596087d80d3aede15b.jpg",
+    "static/media/img4.jpg": "/static/media/img4.788711df176b53396161.jpg",
+    "static/media/img2_1.jpg": "/static/media/img2_1.dc47b6b8412d611ea801.jpg",
+    "static/media/about-bcg.jpg": "/static/media/about-bcg.9eecf66f42d049dc45c6.jpg",
+    "static/media/img3.jpg": "/static/media/img3.6396395af3dd8878d657.jpg",
+    "static/media/img2.jpg": "/static/media/img2.3873072113c75ad632cb.jpg",
+    "static/media/img1.jpg": "/static/media/img1.ddc74add4f395a90429b.jpg",
+    "static/media/profile_pic2.jpg": "/static/media/profile_pic2.2b404f8aae05cb24e3a4.jpg",
+    "static/media/oversize_coat_sm.jpg": "/static/media/oversize_coat_sm.1ade3e566e8ec0ed0102.jpg",
+    "static/media/zara_img.jpg": "/static/media/zara_img.e67b383d37b946d629da.jpg",
+    "static/media/card_img1.jpg": "/static/media/card_img1.5643ae69bb0fef650bfc.jpg",
+    "static/media/profile_pic1.jpg": "/static/media/profile_pic1.b97883ce42bf4f11da60.jpg",
+    "static/media/profile_pic_generic.png": "/static/media/profile_pic_generic.2fda6558cd58b877e14f.png",
+    "index.html": "/index.html",
+    "main.6d543d68.css.map": "/static/css/main.6d543d68.css.map",
+    "main.aea87af8.js.map": "/static/js/main.aea87af8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d543d68.css",
+    "static/js/main.aea87af8.js"
+  ]
+}
