@@ -283,7 +283,7 @@ ul{
     border: 1px solid #3BC8F5;
     padding: 1rem 2rem;
 }
-.header-info h1{
+.header-info h2{
     margin: 0;
     text-transform: uppercase;
     user-select: none;
