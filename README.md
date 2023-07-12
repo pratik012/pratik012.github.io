@@ -37,7 +37,9 @@ Greetings! I am Pratik Sharma, an accomplished and forward-thinking engineer wit
   - Experience with mobile app architecture, performance optimization, and integration of third-party libraries.
 
 - 💻 Programming Languages:
+  - JavaScript: Proficient in JavaScript for front-end and back-end web development.
   - Python: Proficient in Python for data analysis, scripting, and automation.
+  - Java: Expertise in Java for Android app development and desktop applications.
   - C and C++: Familiarity with these languages for embedded systems and performance-driven applications.
 
 - 🖥️ Desktop App Development:
@@ -218,9 +220,10 @@ Explore my **GitHub repositories** and **portfolio projects** at [GitHub Profile
 
 ## Contact
 I would be delighted to discuss your project requirements and explore opportunities for collaboration. Feel free to reach out to me through the following channels:
+- 🌐 Website: [Pratik Sharma](https://pratiksharma.name.np/home)
 - ✉️ Email: [spra99.tech@gmail.com](mailto:spra99.tech@gmail.com)
-- 💼 LinkedIn: [Pratik Sharma](https://www.linkedin.com/)
-- 🌐 Website: [pratiksharma.name.np/home](https://pratiksharma.name.np/home)
+- 💼 LinkedIn: [Pratik Sharma](https://www.linkedin.com/in/pratik-sharma-2a2179240)
+- :octocat: GitHub [Pratik Sharma](https://github.com/pratik012)
 
 I'm open to collaboration and always excited to work on innovative projects. Let's connect and explore the possibilities! Let's bring your vision to life!🤝
 
