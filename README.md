@@ -1,14 +1,13 @@
 # 👋 Welcome to my GitHub landing page! 
 
 ## Pratik Sharma 🧑‍💻 
-[🌐] (https://pratiksharma.name.np/home)
 
 ### Electronics & Communication Engineer 🌟
 
 ## Crafting digital innovations through code, design and imagination.
 
 Hey there! I'm Pratik Sharma, a passionate computer and electronics enthusiast with a strong background in hardware and software development.
-I love bringing ideas to life through innovative projects. Take a look at what I've been working on and let's connect!
+I love bringing ideas to life through innovative projects. Take a look at what I've been working on and let's connect! [🔗 visit](https://pratiksharma.name.np/home)
 
 ## Skills 🚀
 
