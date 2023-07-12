@@ -1,22 +1,29 @@
-# 👋 Welcome to my GitHub landing page! 
-
 ## Pratik Sharma 🧑‍💻 
 
 ### Electronics & Communication Engineer 🌟
 
 ## Crafting digital innovations through code, design and imagination.
 
-Hey there! I'm Pratik Sharma, a passionate computer and electronics enthusiast with a strong background in hardware and software development.
+Hey there! I'm Pratik Sharma, a passionate electronics and computer enthusiast with a strong background in hardware and software development.
 I love bringing ideas to life through innovative projects. Take a look at what I've been working on and let's connect! [🔗 visit](https://pratiksharma.name.np/home)
+
+## Table of Contents
+- [Skills](#skills)
+- [Project Experience](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
 ## Skills 🚀
 
 - 💻 **Programming Languages:** C/C++, Python, Java, JavaScript
-- 🔌 **Hardware Design:** VHDL, Verilog, FPGA, PCB Design
 - ⚡️ **Embedded Systems:** Arduino, Raspberry Pi, Microcontrollers
 - 🌐 **Web Development:** HTML, CSS, JavaScript, React
 - 📚 **Version Control:** Git, GitHub
 - 🖥️ **Operating Systems:** Linux, Windows
+- 🔌 **Hardware Design:** VHDL, Verilog, FPGA PCB Design
 
 ## Projects 🛠️
 
