@@ -1,4 +1,4 @@
-## 🚀 **Er. Pratik Sharma** [🔗](https://pratiksharma.name.np/home/)
+## 🚀 **Er. Pratik Sharma** [🔗](https://pratiksharma.name.np/)
 ### *Electronics & Communication Engineer*
 ## Crafting digital innovations through code, design and imagination.
 
@@ -220,8 +220,9 @@ Explore my **GitHub repositories** and **portfolio projects** at [GitHub Profile
 
 ## Contact
 I would be delighted to discuss your project requirements and explore opportunities for collaboration. Feel free to reach out to me through the following channels:
-- 🌐 Website: [Pratik Sharma](https://pratiksharma.name.np/home)
+- 🌐 Website: [Pratik Sharma](https://pratiksharma.name.np/)
 - ✉️ Email: [spra99.tech@gmail.com](mailto:spra99.tech@gmail.com)
+- ✉️ Email: [contact@pratiksharma.name.np](mailto:contact@pratiksharma.name.np)
 - 💼 LinkedIn: [Pratik Sharma](https://www.linkedin.com/in/pratik-sharma-2a2179240)
 - :octocat: GitHub [Pratik Sharma](https://github.com/pratik012)
 
