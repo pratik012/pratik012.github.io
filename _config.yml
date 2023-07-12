@@ -1,24 +1,24 @@
-# Site settings
-title: Your Portfolio
-description: Showcase your skills and projects
-theme: jekyll-theme-cayman
+# # Site settings
+# title: Your Portfolio
+# description: Showcase your skills and projects
+# theme: jekyll-theme-cayman
 
-# Markdown settings
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: highlight
+# # Markdown settings
+# markdown: kramdown
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+#   syntax_highlighter: rouge
+#   syntax_highlighter_opts:
+#     css_class: highlight
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# # Plugins
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
 
-# Build settings
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
+# # Build settings
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - README.md
