@@ -1,6 +1,7 @@
 # 👋 Welcome to my GitHub landing page! 
 
-## Pratik Sharma 🧑‍💻
+## Pratik Sharma 🧑‍💻 
+[🌐] (https://pratiksharma.name.np/home)
 
 ### Electronics & Communication Engineer 🌟
 
@@ -37,8 +38,8 @@ I love bringing ideas to life through innovative projects. Take a look at what I
 
 ## Education 🎓
 
-- Bachelor of Engineering in Computer Engineering, XYZ University, Year
-- Relevant coursework: Digital Electronics, Microprocessor Systems, Computer Networks
+- Bachelor of Electronics & Communications Engineering, Tribhuvan University, BEX-2074
+<!-- - Relevant coursework: Digital Electronics, Microprocessor Systems, Computer Networks -->
 
 ## Contact 📬
 
