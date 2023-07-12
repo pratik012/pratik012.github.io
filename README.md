@@ -4,26 +4,27 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Technical Expertise](#technical-expertise-🛠️)
-- [Key Strengths](#key-strengths-💪)
-- [Projects](#projects-🛠️)
-    - [Frugal Fashion Nepal](#frugal-fashion-nepal-🎀👗✨)
-    - [Payoff](#payoff-📱💲💳)
-    - [Decentralized On-Demand Server System](#decentralized-on-demand-server-system-using-smartphones-📲🖧)
-    - [NFC Based Offline Monetary Transaction System](#nfc-based-offline-monetary-transaction-system-💳⚙️)
-    - [GHADI](#ghadi---iot-based-smart-clock-📲🕑📆🌐)
-    - [Dharahara Simualtion](#graphics-project-dharahara-simulation-🗼🖌️)
-    - [Automatic Page Turning Robot](#automatic-page-turning-robot-⚙️🤖)
+- [Technical Expertise](#technical-expertise)
+- [Key Strengths](#key-strengths)
+- [Projects](#projects)
+    - [Frugal Fashion Nepal](#frugal-fashion-nepal)
+    - [Payoff](#payoff)
+    - [Decentralized On-Demand Server System](#decentralized-on-demand-server-system-using-smartphones)
+    - [NFC Based Offline Monetary Transaction System](#nfc-based-offline-monetary-transaction-system)
+    - [GHADI](#ghadi---iot-based-smart-clock)
+    - [Dharahara Simualtion](#graphics-project-dharahara-simulation)
+    - [Automatic Page Turning Robot](#automatic-page-turning-robot)
     - [Visitor Counter](#visitor-counter)
     - [Other Projects](#other-projects)
-- [Education & Certifications](#education--certifications-🎓)
-- [GitHub & Portfolio](#github--portfolio-🌐)
-- [Contact](#contact-📧)
+- [Education & Certifications](#education--certifications)
+- [GitHub & Portfolio](#github--portfolio)
+- [Contact](#contact)
 
 ## Introduction
 Greetings! I am Pratik Sharma, an accomplished and forward-thinking engineer with a passion for electronics and computer. Welcome to my professional portfolio, where expertise meets innovation and excellence. Here's why I am the best choice for your next project:
 
-## Technical Expertise 🛠️
+## Technical Expertise
+🛠️
 - 💻 Full-Stack Web Development:
   - Proficient in MERN (MongoDB, Express.js, React.js, Node.js) stack development.
   - Extensive experience with HTML, CSS, JavaScript, and modern frameworks like React.
@@ -54,7 +55,8 @@ Greetings! I am Pratik Sharma, an accomplished and forward-thinking engineer wit
   - Utilize TensorFlow, Keras, NumPy, Pandas, and OpenCV for data mining, machine learning, and computer vision projects.
   - Experience in data preprocessing, feature engineering, model development, and evaluation.
 
-## Key Strengths 💪
+## Key Strengths
+💪
 - 🔍 Innovative Problem Solver:
   - Known for applying creative thinking to solve complex technical challenges.
   - Ability to devise efficient and elegant solutions, leveraging a deep understanding of algorithms and data structures.
@@ -75,8 +77,9 @@ Greetings! I am Pratik Sharma, an accomplished and forward-thinking engineer wit
   - Knowledgeable in secure coding practices and implementing robust security measures.
   - Prioritize data protection and privacy, ensuring applications are resistant to potential vulnerabilities.
 
-## Projects 🛠️
-### **Frugal Fashion Nepal** 🎀👗🛍️
+## Projects
+### **Frugal Fashion Nepal**
+🎀👗🛍️
 - Website: [Frugal Fashion Nepal](https://www.frugalfashionnepal.com)
 - E-commerce platform dedicated to providing affordable fashion for every occasion.
 - Technologies Used 🚀:
@@ -86,7 +89,8 @@ Greetings! I am Pratik Sharma, an accomplished and forward-thinking engineer wit
     - 🌥️ Cloudinary: Cloud-based image and video management solution
     - 📊 Google Analytics: Tracking and analyzing website traffic and user behavior
 
-### **Payoff** 📱💲💳
+### **Payoff**
+📱💲💳
 - Android App for Offline Digital Transaction
 - Technologies Used 🚀:
     - ☕ Java, C, C++: Programming languages used for app development
@@ -96,7 +100,8 @@ Greetings! I am Pratik Sharma, an accomplished and forward-thinking engineer wit
     - 🔒 OpenSSL: Secure socket layer library for encryption and secure communication
     - 🏗️ MVVM architecture: Model-View-ViewModel architectural pattern for clean separation of concerns between the data (Model), user interface (View), and business logic (ViewModel)
 
-### **Decentralized On-Demand Server System using Smartphones** 📲🖧
+### **Decentralized On-Demand Server System using Smartphones**
+📲🖧
 - The system allows users to transform their smartphones into individual servers that can be utilized to provide services and resources on-demand.
 - Technologies Used 🚀:
     - ☕ Java: Programming language used for server-side development
@@ -109,7 +114,8 @@ Greetings! I am Pratik Sharma, an accomplished and forward-thinking engineer wit
     - 🔌 Utilize socket programming for efficient communication between devices.
     - 📈 Create a scalable and reliable system by leveraging the MERN stack and database technologies.
 
-### **NFC-Based Offline Monetary Transaction System** 💳⚙️
+### **NFC-Based Offline Monetary Transaction System**
+💳⚙️
 - The project aims to develop an offline monetary transaction system using Near Field Communication(NFC) technology.
 - Technologies Used 🚀:
     - 💻 Embedded C: Programming language used for microcontroller programming
@@ -122,7 +128,8 @@ Greetings! I am Pratik Sharma, an accomplished and forward-thinking engineer wit
     - 🖥️ Develop an intuitive user interface for seamless user experience.
     - 🕹️ Utilize Atmega32 microcontroller to handle NFC communication and transaction processing.
 
-### **GHADI - IoT Based Smart Clock** 📲🕑📆🌐
+### **GHADI - IoT Based Smart Clock**
+📲🕑📆🌐
 - It combines the power of embedded systems and IoT technologies to provide features such as automated scheduling, real-time weather updates, and customizable alarms. The clock integrates with various platforms, allowing users to control and customize it remotely.
 - Technologies Used 🚀:
     - 🐍 Python: Programming language used for backend development and scripting
@@ -137,7 +144,8 @@ Greetings! I am Pratik Sharma, an accomplished and forward-thinking engineer wit
     - ⚙️ Utilize Atmega32 microcontroller for efficient clock operation and control.
     - 💻 Integrate Raspberry Pi for central processing and IoT connectivity.
 
-### **Graphics Project: Dharahara Simulation** 🗼🖌️
+### **Graphics Project: Dharahara Simulation**
+🗼🖌️
 - A graphics project that aims to create a virtual simulation of the iconic tower, Dharahara, using computer graphics techniques.
 - Technologies Used 🚀:
     - 🐍 Python: Programming language used for application logic and scripting.
@@ -149,7 +157,8 @@ Greetings! I am Pratik Sharma, an accomplished and forward-thinking engineer wit
     - 🌟 Employ OpenGL for rendering and visual effects to enhance realism.
     - 📚 Provide an interactive experience for users to explore and learn about Dharahara's architecture and history.
 
-### **Automatic Page Turning Robot** ⚙️🤖
+### **Automatic Page Turning Robot**
+⚙️🤖
 - The Automatic Page Turning Robot is designed to assist individuals with limited mobility in turning the pages of books or documents.
 - Technologies Used 🚀:
     - ⚙️ Atmega32: Microcontroller used for controlling the robotic system.
@@ -162,6 +171,7 @@ Greetings! I am Pratik Sharma, an accomplished and forward-thinking engineer wit
     - 📚 Provide a practical solution to assist individuals with difficulties in turning pages manually.
 
 ### **Visitor Counter**
+🚶‍♂️📡
 - A simple and effective solution for visitor management and crowd monitoring.
 - Technologies Used 🚀:
     - 🧲 Arduino: Microcontroller platform used for building the Visitor Counter.
@@ -200,15 +210,17 @@ Here are some other projects that have been undertaken:
     - Implemented these projects using suitable programming languages and frameworks, such as Java, HTML, CSS, JavaScript, and React, depending on the specific project requirements.
     - These mini projects aimed to showcase practical skills in web development and application design.
 
-## Education & Certifications 🎓
-- Bachelor of Electronics & Communication Engineering, Pulchowk Campus, Institute of Engineering, Tribhuvan University, BEX074
+## Education & Certifications
+- 🎓 Bachelor of Electronics & Communication Engineering, Pulchowk Campus, Institute of Engineering, Tribhuvan University, BEX074
 - +2 NEB, Science (Computer), Everest English Boarding Secondary School, Butwal
 - SLC, Everest English Boarding Higher Secondary School, Butwal
 
-## GitHub & Portfolio 🌐
+## GitHub & Portfolio
+🌐
 Explore my **GitHub repositories** and **portfolio projects** at [GitHub Profile](https://github.com/pratik012).
 
-## Contact 📧
+## Contact
+📧
 I would be delighted to discuss your project requirements and explore opportunities for collaboration. Feel free to reach out to me through the following channels:
 - ✉️ Email: [spra99.tech@gmail.com](mailto:spra99.tech@gmail.com)
 - 💼 LinkedIn: [Pratik Sharma](https://www.linkedin.com/)
