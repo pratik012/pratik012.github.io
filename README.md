@@ -1,4 +1,4 @@
-## 🚀 **Er. Pratik Sharma** [🔗](https://pratiksharma.name.np/)
+## **Er. Pratik Sharma** [🔗](https://pratiksharma.name.np/)
 ### *Electronics & Communication Engineer*
 ## Crafting digital innovations through code, design and imagination.
 
@@ -45,6 +45,10 @@ Greetings! I am Pratik Sharma, an accomplished and forward-thinking engineer wit
 - 🖥️ Desktop App Development:
   - Proficient in developing desktop applications using technologies like Java, C, Qt or Electron framework.
   - Experience in building cross-platform desktop apps for Windows, macOS, and Linux.
+
+- 🌐 Embedded Systems:
+  - Familiarity with embedded programming using Arduino and Raspberry Pi.
+  - Experience in developing projects for IoT (Internet of Things), Mechatronics applications.
 
 - 🎨 UI/UX Design:
   - Knowledge of user-centered design principles and best practices.
