@@ -129,7 +129,7 @@ small, .text_small {
 } */
 
 a{
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 ul{
